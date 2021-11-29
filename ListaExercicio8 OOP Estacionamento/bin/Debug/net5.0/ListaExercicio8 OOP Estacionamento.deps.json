@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ListaExercicio8 OOP Estacionamento/1.0.0": {
+        "runtime": {
+          "ListaExercicio8 OOP Estacionamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListaExercicio8 OOP Estacionamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

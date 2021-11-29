@@ -1,0 +1,16 @@
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio8 OOP Estacionamento\ListaExercicio8 OOP Estacionamento\bin\Debug\net5.0\ListaExercicio8 OOP Estacionamento.exe
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio8 OOP Estacionamento\ListaExercicio8 OOP Estacionamento\bin\Debug\net5.0\ListaExercicio8 OOP Estacionamento.deps.json
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio8 OOP Estacionamento\ListaExercicio8 OOP Estacionamento\bin\Debug\net5.0\ListaExercicio8 OOP Estacionamento.runtimeconfig.json
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio8 OOP Estacionamento\ListaExercicio8 OOP Estacionamento\bin\Debug\net5.0\ListaExercicio8 OOP Estacionamento.runtimeconfig.dev.json
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio8 OOP Estacionamento\ListaExercicio8 OOP Estacionamento\bin\Debug\net5.0\ListaExercicio8 OOP Estacionamento.dll
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio8 OOP Estacionamento\ListaExercicio8 OOP Estacionamento\bin\Debug\net5.0\ref\ListaExercicio8 OOP Estacionamento.dll
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio8 OOP Estacionamento\ListaExercicio8 OOP Estacionamento\bin\Debug\net5.0\ListaExercicio8 OOP Estacionamento.pdb
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio8 OOP Estacionamento\ListaExercicio8 OOP Estacionamento\obj\Debug\net5.0\ListaExercicio8 OOP Estacionamento.csproj.AssemblyReference.cache
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio8 OOP Estacionamento\ListaExercicio8 OOP Estacionamento\obj\Debug\net5.0\ListaExercicio8 OOP Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio8 OOP Estacionamento\ListaExercicio8 OOP Estacionamento\obj\Debug\net5.0\ListaExercicio8 OOP Estacionamento.AssemblyInfoInputs.cache
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio8 OOP Estacionamento\ListaExercicio8 OOP Estacionamento\obj\Debug\net5.0\ListaExercicio8 OOP Estacionamento.AssemblyInfo.cs
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio8 OOP Estacionamento\ListaExercicio8 OOP Estacionamento\obj\Debug\net5.0\ListaExercicio8 OOP Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio8 OOP Estacionamento\ListaExercicio8 OOP Estacionamento\obj\Debug\net5.0\ListaExercicio8 OOP Estacionamento.dll
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio8 OOP Estacionamento\ListaExercicio8 OOP Estacionamento\obj\Debug\net5.0\ref\ListaExercicio8 OOP Estacionamento.dll
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio8 OOP Estacionamento\ListaExercicio8 OOP Estacionamento\obj\Debug\net5.0\ListaExercicio8 OOP Estacionamento.pdb
+C:\Users\PremierSoft\Arquivos VS\ListaExercicio8 OOP Estacionamento\ListaExercicio8 OOP Estacionamento\obj\Debug\net5.0\ListaExercicio8 OOP Estacionamento.genruntimeconfig.cache
